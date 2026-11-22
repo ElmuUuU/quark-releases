@@ -1,8 +1,8 @@
 {
   "channel": "beta",
-  "version": "1.0.0-beta.11",
-  "build": 131,
-  "url": "https://github.com/ElmuUuU/quark-releases/releases/download/v1.0.0-beta.11/Quark-macos-unsigned-1.0.0-beta.11.zip",
-  "size": 15934521,
-  "sha256": "65039af46c4b5714033a7cf257f5666834237a667ba8ec96c931175762f50434"
+  "version": "1.0.0-beta.12",
+  "build": 139,
+  "url": "https://github.com/ElmuUuU/quark-releases/releases/download/v1.0.0-beta.12/Quark-macos-unsigned-1.0.0-beta.12.zip",
+  "size": 16392958,
+  "sha256": "76d777c8bb8c6c542a08c80988c2bc3eda7e71daea1880638694592cb39b234b"
 }
